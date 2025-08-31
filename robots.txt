@@ -1,5 +1,4 @@
 User-agent: *
 Disallow:
-index.html
 
 Sitemap: https://univer-tex-company.com/sitemap.xml
